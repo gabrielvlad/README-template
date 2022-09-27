@@ -1,4 +1,4 @@
-## Como usar os Badges?
+## How to use Badges?
 1. Pegue a URL
 2. Cria a img ``` <img src="BadgeURLAqui" /> ``` ou ``` ![image](BadgeURLAqui) ```
 3. Copie e cole no seu perfil
@@ -11,7 +11,7 @@
 - [Skills](#skills)
 - [Jogos](#jogos)
 
-## Contato
+## Contact
 
 Badge | URL
 ------------ | -------------
@@ -167,7 +167,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white`
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | `https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black`
 
-## Jogos
+## Games
 
 Badge | URL
 ------------ | -------------
