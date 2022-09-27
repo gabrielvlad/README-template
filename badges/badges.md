@@ -1,7 +1,7 @@
 ## How to use Badges?
-1. Pegue a URL
-2. Cria a img ``` <img src="BadgeURLAqui" /> ``` ou ``` ![image](BadgeURLAqui) ```
-3. Copie e cole no seu perfil
+1. Get the URL
+2. Create the img ``` <img src="BadgeURLHere" /> ``` or ``` ![image](BadgeURLHere) ```
+3. Copy and paste to your profile
 
 ## Menu
 - [Contact](#contact)
