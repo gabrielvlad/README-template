@@ -1,4 +1,4 @@
-## Como usar os Cards? :monocle_face:
+## How to use Cards? :monocle_face:
 
 Como usar? É simples! Copie e cole em seu conteúdo de markdown e pronto.
 
@@ -10,7 +10,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### Adicionando icones :thumbsup:
+### Adding icons :thumbsup:
 
 ```md
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +18,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Mostrar Linguagens
+## Show Languages
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +26,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-## ou
+## or
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,13 +36,13 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 ---
 
-## Temas :art:
+## Themes :art:
 
 Altere o `default` para o nome do tema que deseja usar.
 
 Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula.
 
-### Padrão
+### Pattern
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
