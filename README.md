@@ -15,6 +15,11 @@
 
 ---
 
+## This is a translated repo from Portuquese to English based on the fork of https://github.com/iuricode
+https://github.com/iuricode
+
+##If you want to support the original repo you can do so here bellow:
+
 ## ☕ Be one of the contributors
 
 Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.<br>
