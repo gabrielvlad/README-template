@@ -1,17 +1,17 @@
 ```js
-import Desenvolvedor from 'SeuNick';
+import Developer from 'YourNick';
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+class About Me extends Developer {
+  name = 'Your name';
+  area = 'Your area';
+  work = 'Where do you work';
+  location = 'Local';
 }
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+class Skills extends Developer {
+  languages ​​= ['Your languages'];
+  libraries = ['Your libraries'];
+  frameworks = ['Your frameworks'];
 }
 ```
 
