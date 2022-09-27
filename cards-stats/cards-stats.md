@@ -1,8 +1,8 @@
 ## How to use Cards? :monocle_face:
 
-Como usar? É simples! Copie e cole em seu conteúdo de markdown e pronto.
+How to use? It's simple! Copy and paste into your markdown content and you're done.
 
-Altere o `iuricode` para o nome de usuário do GitHub.
+Change `iuricode` to your GitHub username.
 
 ```md
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -38,9 +38,9 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 ## Themes :art:
 
-Altere o `default` para o nome do tema que deseja usar.
+Change the `default` to the name of the theme you want to use.
 
-Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula.
+Available themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula.
 
 ### Pattern
 
