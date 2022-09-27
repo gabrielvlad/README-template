@@ -1,14 +1,14 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜Hello, my name is <strong>{your name}!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Give a brief presentation about yourself and your area.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Write down any projects you have developed or are currently working on.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Write a message for people to contact you, or ask you questions.
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -25,5 +25,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)

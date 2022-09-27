@@ -1,23 +1,23 @@
-### Oie devs 👋
+### Hi devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+I enjoy creating great software and helping others do the same.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **YOUR NAME** {
+ val name = "YOUR FULL NAME"
+ val acknowledgements = "KNOWLEDGE AREA"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "SOME SKILLS"
  val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
 
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -31,7 +31,7 @@ object **SEU NOME** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
@@ -48,7 +48,7 @@ object **SEU NOME** {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
+#### Social networks!
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
