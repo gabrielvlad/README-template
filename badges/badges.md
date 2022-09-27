@@ -4,12 +4,12 @@
 3. Copie e cole no seu perfil
 
 ## Menu
-- [Contato](#contato)
+- [Contact](#contact)
 - [Social](#social)
 - [Blog](#blog)
 - [Streaming](#streaming)
 - [Skills](#skills)
-- [Jogos](#jogos)
+- [Games](#games)
 
 ## Contact
 
