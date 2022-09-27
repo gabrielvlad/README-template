@@ -1,6 +1,6 @@
-# Nome do projeto
+# Project name
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<!---These are examples. See https://shields.io for others or to customize this shield set. You might want to include dependencies, project status and license information here--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -10,65 +10,65 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Additional line of informational text about what the project does. Your introduction should be around 2 or 3 lines long. Don't overdo it, people won't read.
 
-### Ajustes e melhorias
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still in development and the next updates will focus on the following tasks:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+- [ ] Task 4
+- [ ] Task 5
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+Before starting, make sure you've met the following requirements:
+<!---These are example requirements only. Add, duplicate or remove as needed--->
+* You have installed the latest version of `<language/dependency/required>`
+* You have a `<Windows/Linux/Mac>` machine. Indicate which operating system is supported/unsupported.
+* You read `<guide/link/documentation_related_to_the_project>`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Installing <project_name>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+To install <project_name>, follow these steps:
 
-Linux e macOS:
+Linux and macOS:
 ```
-<comando_de_instalação>
+<install_command>
 ```
 
 Windows:
 ```
-<comando_de_instalação>
+<install_command>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Using <project_name>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+To use <project_name>, follow these steps:
 
 ```
-<exemplo_de_uso>
+<example_of_use>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+Add run commands and examples that you think users will find useful. Provides a reference of options for bonus points!
 
-## 📫 Contribuindo para <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+## 📫 Contributing to <project_name>
+<!---If your README is long or if you have any specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
+To contribute to <project_name>, follow these steps:
 
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<message_commit>'`
+4. Push to the original branch: `git push origin <project_name> / <local>`
+5. Create the pull request.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
@@ -100,12 +100,12 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Be one of the contributors<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Back to top](#project-name)<br>
